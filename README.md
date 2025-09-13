@@ -1,6 +1,6 @@
 Welcome to my Software Development Journey
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nthabiseng Moloi
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
